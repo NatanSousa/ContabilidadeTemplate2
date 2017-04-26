@@ -12,3 +12,32 @@
 #CentralizaImg {
 	padding-top : 50px;
 }
+
+.borda {
+	border:2px solid;
+	border-width:thin;
+}
+
+.bordaRow {
+	border: 5px solid;
+}
+
+.bordaConteiner {
+	border: 5px solid;
+	border-color: yellow;
+}
+
+.corFooter {
+	height: 70;
+	background:#00C;
+}
+
+.Fixo {
+  position: fixed;
+  top:0;  
+  width: 86%; 
+}
+
+.Resto { 
+	padding-top: 4400px;
+}
