@@ -43,17 +43,38 @@ a:active {
 }
 
 .corFooter {
-
-	background:#00C;
+	background:#42729D;
 }
 
 .Fixo {
   position: fixed;
   top:0;  
-  width: 86%; 
+  width: 7	7.5%; 
 }
+
 
 .Resto { 
 	padding-top: 4000px;
 }
 
+.Imagem {
+	width: 100%;
+	column-fill:auto;
+	margin-left:-15;
+
+}
+
+.TextoSobreImagem {
+	position: absolute;
+	text-align:center;
+	color:#CCC;
+	margin-top: -300px;
+
+}
+
+.Rodape {
+  top:0;  
+  padding: -10px;
+  height: 25px;
+  width: 10 10%; 
+}
